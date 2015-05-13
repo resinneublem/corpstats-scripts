@@ -37,4 +37,4 @@ First make sure both Ruby 2.x and R are installed. Then make sure you bundle the
 
 That will create a pdf in the folder "reports".
 
-Some examples of PVP corporations that are recruiting in the [EVE Forums](https://forums.eveonline.com/default.aspx?g=topics&f=265) are available in the examples folder.
+Some examples of PVP corporations that are recruiting in the [EVE Forums](https://forums.eveonline.com/default.aspx?g=topics&f=265) are available in the [examples folder](https://github.com/resinneublem/corpstats-scripts/tree/master/examples).
