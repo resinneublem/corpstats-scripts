@@ -4,7 +4,7 @@ I'm looking for a small gang PVP corporation and after finding a potential corp,
 
 * Check their Monthly History on zkillboard to get a sense of their recent activity. Example: https://zkillboard.com/corporation/1018389948/stats/ _(I hear dreddit is recruiting)_.
 * Ask about their timezone activity. (I'm looking for US Eastern between 0:00-3:00 EVE).
-* Ask about their typical fleets. (I'm looking for a mix of micro gang, 2-4, and small gang, up to 10),
+* Ask about their typical fleets. (I'm looking for a mix of micro gang, 2-4, and small gang, up to 10).
 
 However, I have found that with the last two questions, people have a way of exaggerating. Or it might be they really don't know so they're just guessing.
 
