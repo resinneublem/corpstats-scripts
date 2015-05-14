@@ -28,13 +28,6 @@ First make sure both Ruby 2.x and R are installed. Then make sure you bundle the
 
 1) Find the corporation ID by looking at the URL on zkillboard or eve-kill.net. For example, the dreddit ID above is 1018389948.
 
-2) Run `./last_1000_kills.sh <corporation_id>`. That will download the last 1000 kills from the zkillboard API and then turn it into a csv.
-
-3) Start R by running `R` and inside the prompt run these commands:
-
-    source("killboard.R")         # this only needs to run the first time to load the R functions
-    report(1018389948, "dreddit") # just finds the csv for that corporation and generates a couple reports
-
-That will create a pdf in the folder "reports".
+2) Run `./last_1000_kills.sh <corporation_id> <corporation name>`. That will download the last 1000 kills from the zkillboard API, turn it into a csv, then generate a pdf in the "reports" folder
 
 Some examples of PVP corporations that are recruiting in the [EVE Forums](https://forums.eveonline.com/default.aspx?g=topics&f=265) are available in the [examples folder](https://github.com/resinneublem/corpstats-scripts/tree/master/examples).

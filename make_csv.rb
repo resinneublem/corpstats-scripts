@@ -17,6 +17,8 @@ csv_filename = "./csv/#{File.basename(ARGV[0], ".json")}.csv".gsub(/_page_\d+_\d
 
 type_id = ARGV[0].match(/#{TYPE}_(\d+)_/)[1]
 
+FileUtils.mkdir_p("csv")
+
 CSV.open(csv_filename, "w", write_headers: true, headers: HEADERS) do |csv|
   kills.each do |data|
     was_a_kill = case TYPE
